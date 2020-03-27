@@ -46,7 +46,6 @@ h2{
 	border-bottom: 7px solid  #ccf8ff;
 }
 .tab button.active {
-	/*border-bottom: 7px solid  #1fbed6;*/
 	border-bottom: 7px solid  #ccf8ff;
 }
 
@@ -89,6 +88,5 @@ h2{
 	width: 100%;
 }
 .reference td.icons {
-	/*width: 180;*/
 	width: 90;
 }
