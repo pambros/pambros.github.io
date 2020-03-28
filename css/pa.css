@@ -67,6 +67,35 @@ h2{
 	margin-right:auto;
 	width: 70%;
 }
+
+.reference {
+	margin: 0 auto;
+	text-align: left;
+	width: 70%;
+	border-bottom: 15px solid white;
+}
+.reference img {
+	max-height: 235px;
+	max-width: 100%;
+	width: auto;
+	height: auto;
+}
+.reference table {
+	margin-left:auto; 
+	margin-right:auto;
+	width: 100%;
+}
+.reference td.ref {
+	width: 92%;
+}
+.reference td.icons {
+	min-width: 15px;
+}
+.icons img {
+	max-height: 40px;
+	border-bottom: 2px solid white;
+}
+
 .tabcontent td.date {
 	font-weight: bold;
 	width: 15%;
@@ -75,18 +104,9 @@ h2{
 .tabcontent td.news {
 	width: 85%;
 }
-
-.reference {
-	margin: 0 auto;
-	text-align: left;
-	width: 70%;
-	border-bottom: 15px solid white;
-}
-.reference table {
-	margin-left:auto; 
-	margin-right:auto;
-	width: 100%;
-}
-.reference td.icons {
-	width: 90;
+.news img {
+	max-height: 300px;
+	max-width: 100%;
+	width: auto;
+	height: auto;
 }
